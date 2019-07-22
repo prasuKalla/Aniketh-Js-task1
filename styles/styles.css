@@ -1,0 +1,26 @@
+.hide{
+        display: none;
+     }
+
+.nav-link{
+	color: yellow;
+}
+
+#displayBox{
+  float: center;
+  top: 25%;
+  left: 40%;
+  display: grid;
+  grid-template-columns: 100%;
+  border-style: solid;
+  border-color: #000000;
+}
+
+body{
+   overflow-y:scroll; 
+    position:relative;
+}
+
+html {
+  box-sizing: border-box;
+}
